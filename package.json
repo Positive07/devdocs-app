@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/egoist/devdocs-app.git"
+    "url": "git+https://github.com/Positive07/devdocs-app.git"
   },
   "keywords": [
     "devdocs",
@@ -29,9 +29,9 @@
     "electron"
   ],
   "bugs": {
-    "url": "https://github.com/egoist/devdocs-app/issues"
+    "url": "https://github.com/Positive07/devdocs-app/issues"
   },
-  "homepage": "https://github.com/egoist/devdocs-app#readme",
+  "homepage": "https://github.com/Positive07/devdocs-app#readme",
   "devDependencies": {
     "electron": "^1.6.11",
     "electron-builder": "^18.6.2",
